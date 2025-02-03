@@ -1,3 +1,4 @@
+#Import required Modules
 Import-Module -Name Microsoft.Graph    
 
 # Define the Application (Client) ID and Secret
