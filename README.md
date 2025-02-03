@@ -1,10 +1,10 @@
-A simple powershell script uses Graph API via Azure enterprise application, to fetch licences to the specified tenant.
+A simple powershell script uses Graph API, to fetch licences to the specified tenant.
 The script uses MSgraph to fetch the report.
 
 There are 3 parts to the script.
 
 Part 1 :  Authentication
-          For autntication it uses Azure Apps with graph read only permissions
+          For autntication it uses Azure App with graph read only permissions
 
 Part 2 : Report
          The graph queries M365 tenant for the entitled and other applicable licecnes in a list
