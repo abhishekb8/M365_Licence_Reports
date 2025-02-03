@@ -110,7 +110,7 @@ $htmlBody = @"
 $Server = "<SMTP_Server>"
 $From = 'M365LicenceStatus@emaildomain.com'
 $To = 'reciever@emaildomain.com'
-$Bcc = 'recieverbcc@maildomain.com'
+$Bcc = 'recieverbcc@emaildomain.com'
 $Subject = "M365 License Usage Summary"
 $Body = $htmlBody
 
